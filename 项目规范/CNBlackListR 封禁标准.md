@@ -1,6 +1,6 @@
 # 综述
 - 机器人包含两个级别的，0（严重）会被踢出（如果群组开启了踢人），1（警告）只是提示群主需要注意
-- 群主可以选择遇到 Spam 只是警告（`/soamdisable BlackList`），或者是给予机器人权限并开启自动踢人（`/soamdisable BlackList AutoKick`）
+- 群主可以选择遇到 Spam 只是警告（`/soamenable BlackList`），或者是给予机器人权限并开启自动踢人（`/soamenable BlackList AutoKick`）
 - 所有 Spam 证据将会放在频道 [@CNBlackListEvidence](https://t.me/CNBlackListEvidence)；理由将会放在频道 [@CNBlackListR](https://t.me/CNBlackListR)
 - 所有判断将会避免偏向性，所有判决将会尽量在群组 [@CNBlackListRChat](https://t.me/CNBlackListRChat) 放出讨论
 - 如果您被封禁，但是认为判决有误，请加入群组 [@CNBlackListRAppeal](https://t.me/CNBlackListRAppeal) `@admin` 并给予理由
