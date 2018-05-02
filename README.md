@@ -6,6 +6,8 @@
 # 项目结构
 
 - 使用说明
+- 简介  
+    - 这里包含了项目的各个部件，尤其是**仲裁区**，强烈建议阅读。
 
 ## 项目规范
 部分内容借鉴 [@zh_groups](https://t.me/zh_groups) [项目](https://wfjsw.gitbooks.io/tgcn-groupindex-reference/)规定
